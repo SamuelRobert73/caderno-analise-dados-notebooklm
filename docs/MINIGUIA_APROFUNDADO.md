@@ -1,8 +1,8 @@
-# Miniguia aprofundado — Fundamentos de Análise de Dados
+# Miniguia aprofundado — Fundamentos de Análise de Dados com Power BI, SQL e Python
 
 ## 1. Objetivo do guia
 
-Este material apresenta uma visão integrada do trabalho inicial de análise de dados. Ele mostra como uma pergunta de negócio pode ser transformada em tarefas de extração, preparação, análise e comunicação, utilizando SQL, pandas e Power BI como ferramentas complementares.
+Este material apresenta uma visão integrada do trabalho inicial de análise de dados. Ele mostra como uma pergunta de negócio pode ser transformada em tarefas de extração, preparação, análise e comunicação, utilizando Power BI, SQL e Python como ferramentas complementares.
 
 Os exemplos são didáticos. Eles não representam respostas executadas no NotebookLM nem substituem a validação nas fontes oficiais listadas no final.
 
@@ -292,4 +292,3 @@ Uma pessoa realiza entregas e deseja acompanhar produtividade e receita. A base 
 3. [pandas — Tutoriais introdutórios](https://pandas.pydata.org/docs/getting_started/intro_tutorials/)
 4. [Microsoft Learn — Descubra a análise de dados](https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/)
 5. [Microsoft Learn — Preparar dados para análise com Power BI](https://learn.microsoft.com/en-us/training/paths/prepare-data-power-bi/)
-

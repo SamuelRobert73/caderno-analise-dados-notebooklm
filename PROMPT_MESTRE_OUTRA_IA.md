@@ -27,11 +27,11 @@ O repositório precisa conter obrigatoriamente, nesta ordem:
 
 O tema escolhido é:
 
-> **Fundamentos de Análise de Dados com SQL, Python/pandas e Power BI**
+> **Fundamentos de Análise de Dados com Power BI, SQL e Python**
 
 Pergunta norteadora:
 
-> **Como SQL, pandas e Power BI podem ser utilizados de forma integrada nas etapas de coleta, preparação, análise e comunicação de dados?**
+> **Como Power BI, SQL e Python podem ser utilizados de forma integrada nas etapas de coleta, preparação, análise e comunicação de dados?**
 
 O projeto será associado ao perfil de Samuel Robert Alves Vitorino, estudante de Análise e Desenvolvimento de Sistemas com interesse profissional em Análise de Dados.
 
@@ -82,9 +82,9 @@ O README deve ser completo e conter:
 - Um modelo de registro para testes reais;
 - Miniguia de estudo consolidado;
 - Resumo do fluxo de análise de dados;
-- Explicação do papel de SQL, pandas e Power BI;
+- Explicação do papel de Power BI, SQL e Python;
 - Um exemplo curto de SQL comentado;
-- Um exemplo curto de Python/pandas comentado;
+- Um exemplo curto de Python comentado;
 - Uma tabela mostrando como as ferramentas se integram;
 - Pelo menos dez boas práticas;
 - Glossário com pelo menos vinte conceitos;
@@ -216,4 +216,3 @@ Avalie cada resultado de 0 a 2:
 | Integridade | Inventa resultados | Algumas ambiguidades | Separa fatos, exemplos e pendências |
 
 Pontuação máxima: **14 pontos**. A melhor resposta não é necessariamente a mais longa, mas a que atende aos requisitos com maior clareza, rastreabilidade e honestidade.
-

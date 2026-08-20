@@ -29,7 +29,7 @@ O trabalho não consiste apenas em pedir um resumo a uma IA. Ele avalia quatro c
 - Formular e melhorar prompts;
 - Consolidar e documentar o aprendizado.
 
-O tema sugerido é **Fundamentos de Análise de Dados com SQL, Python/pandas e Power BI**, por sua relação com a carreira de analista de dados.
+O tema sugerido é **Fundamentos de Análise de Dados com Power BI, SQL e Python**, por sua relação com a carreira de analista de dados.
 
 ## Parte 2 — Criar o repositório no GitHub
 
@@ -74,7 +74,7 @@ Esta é a segunda seção exigida.
 2. Confirme que a fonte pertence ao site oficial indicado;
 3. Leia o título, a introdução e o sumário de cada material;
 4. Entre no NotebookLM e crie um novo notebook;
-5. Dê o nome `Caderno Temático — Fundamentos de Análise de Dados`;
+5. Dê o nome `Caderno Temático — Fundamentos de Análise de Dados com Power BI, SQL e Python`;
 6. Adicione os links um de cada vez;
 7. Confirme se cada fonte foi processada corretamente;
 8. Caso uma página não seja aceita, utilize outra página equivalente da mesma documentação e atualize o README;
@@ -184,7 +184,7 @@ docs: finaliza caderno temático de análise de dados
 
 ### Descrição sugerida para a DIO
 
-> Desenvolvi um caderno temático sobre Fundamentos de Análise de Dados com SQL, pandas e Power BI. O projeto reúne curadoria de fontes oficiais, experimentos de engenharia de prompts no NotebookLM, registro de dificuldades e refinamentos, além de um miniguia com resumo, glossário e prompts reutilizáveis para futuras revisões.
+> Desenvolvi um caderno temático sobre Fundamentos de Análise de Dados com Power BI, SQL e Python. O projeto reúne curadoria de fontes oficiais, experimentos de engenharia de prompts no NotebookLM, registro de dificuldades e refinamentos, além de um miniguia com resumo, glossário e prompts reutilizáveis para futuras revisões.
 
 ## Estrutura recomendada do repositório
 
@@ -214,4 +214,3 @@ As pastas `assets/` e `registros/` só precisam ser criadas quando houver arquiv
 | Honestidade | O repositório diferencia o que foi testado do que é modelo? |
 | Reutilização | O glossário e os prompts servem para revisões futuras? |
 | Apresentação | Títulos, tabelas, links e códigos estão bem formatados? |
-

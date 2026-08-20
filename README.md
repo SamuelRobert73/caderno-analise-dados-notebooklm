@@ -1,4 +1,4 @@
-# Caderno Temático com NotebookLM: Fundamentos de Análise de Dados
+# Caderno Temático com NotebookLM: Fundamentos de Análise de Dados com Power BI, SQL e Python
 
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 ![DIO](https://img.shields.io/badge/projeto-DIO-6C2BD9)
@@ -30,13 +30,13 @@
 
 ## 1. Contexto
 
-O tema escolhido para este caderno temático foi **Fundamentos de Análise de Dados com SQL, Python/pandas e Power BI**. A escolha está relacionada ao meu objetivo de desenvolver competências para atuar como analista de dados, compreendendo não apenas ferramentas isoladas, mas o fluxo completo que transforma dados brutos em informações úteis para a tomada de decisão.
+O tema escolhido para este caderno temático foi **Fundamentos de Análise de Dados com Power BI, SQL e Python**. A escolha está relacionada ao meu objetivo de desenvolver competências para atuar como analista de dados, compreendendo não apenas ferramentas isoladas, mas o fluxo completo que transforma dados brutos em informações úteis para a tomada de decisão.
 
 O projeto utiliza o NotebookLM como ambiente de aprendizagem ativa. Em vez de solicitar respostas genéricas à Inteligência Artificial, foram selecionadas fontes oficiais, criadas perguntas estratégicas e planejadas revisões progressivas das respostas. O foco é aprender a consultar, comparar, resumir e validar informações com base em referências rastreáveis.
 
 ### Pergunta norteadora
 
-> Como SQL, pandas e Power BI podem ser utilizados de forma integrada nas etapas de coleta, preparação, análise e comunicação de dados?
+> Como Power BI, SQL e Python podem ser utilizados de forma integrada nas etapas de coleta, preparação, análise e comunicação de dados?
 
 ### Escopo do caderno
 
@@ -56,7 +56,7 @@ Construir um material de estudo confiável e reutilizável sobre os fundamentos 
 ### Objetivos específicos
 
 - Compreender as principais etapas de um projeto de análise de dados;
-- Identificar o papel de SQL, pandas e Power BI em um fluxo analítico;
+- Identificar o papel de Power BI, SQL e Python em um fluxo analítico;
 - Aprender conceitos básicos de consulta, limpeza, transformação, modelagem e visualização;
 - Praticar engenharia de prompts com perguntas progressivamente mais específicas;
 - Verificar se as respostas da IA são sustentadas pelas fontes selecionadas;
@@ -88,7 +88,7 @@ Foram priorizadas fontes oficiais, abertas, técnicas e adequadas ao nível inic
 
 ### Como adicionar as fontes ao NotebookLM
 
-1. Criar um novo notebook com o nome `Caderno Temático — Fundamentos de Análise de Dados`;
+1. Criar um novo notebook com o nome `Caderno Temático — Fundamentos de Análise de Dados com Power BI, SQL e Python`;
 2. Selecionar a opção de adicionar fontes;
 3. Inserir cada endereço eletrônico individualmente;
 4. Confirmar se o NotebookLM conseguiu processar cada fonte;
@@ -547,7 +547,7 @@ Revise a resposta anterior e identifique: afirmações sem referência, trechos 
 
 Este projeto demonstra que a Inteligência Artificial pode ser usada como apoio à aprendizagem sem substituir a análise crítica. A qualidade do resultado depende da seleção das fontes, da clareza das perguntas, da validação das referências e do registro transparente das limitações encontradas.
 
-O uso conjunto de SQL, pandas e Power BI oferece uma visão inicial de diferentes etapas do trabalho de um analista de dados. A construção do caderno também reforça competências importantes para um portfólio, como documentação, curadoria, comunicação técnica e melhoria iterativa de prompts.
+O uso conjunto de Power BI, SQL e Python oferece uma visão inicial de diferentes etapas do trabalho de um analista de dados. A construção do caderno também reforça competências importantes para um portfólio, como documentação, curadoria, comunicação técnica e melhoria iterativa de prompts.
 
 A rodada de experimentos também revelou uma limitação metodológica importante: foram utilizados como fontes os próprios documentos do projeto. Em vez de esconder o problema, ele foi registrado como uma cicatriz real, demonstrando análise crítica e transparência sobre o processo. Como evolução futura, as cinco fontes oficiais poderão ser importadas diretamente para uma nova execução e comparação dos resultados.
 

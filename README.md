@@ -556,3 +556,5 @@ A rodada de experimentos também revelou uma limitação metodológica important
 **Samuel Robert Alves Vitorino**
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de competências em Análise de Dados.
+
+<!-- Fundamentos de Análise de Dados com Power BI, SQL e Python -->
